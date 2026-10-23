@@ -4,10 +4,10 @@ compatibility_date = "2026-10-01"
 
 [vars]
 APP_URL = "https://ctrl.monster"
-AUTH_FROM_EMAIL = "CTRL <noreply@ctrl.monster>"
+AUTH_FROM_EMAIL = "CTRL LaunchPad <noreply@ctrl.monster>"
 
 [[d1_databases]]
 binding = "DB"
 database_name = "ctrl"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "e6fc3c1c-0a63-481b-b9b6-e959677b9532"
 migrations_dir = "migrations"
